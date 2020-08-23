@@ -1,4 +1,4 @@
-package com.vic.flow.isgflowmirror.utils;
+package com.vic.flow.flowmirror.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

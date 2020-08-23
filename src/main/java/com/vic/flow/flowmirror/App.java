@@ -1,4 +1,4 @@
-package com.vic.flow.isgflowmirror;
+package com.vic.flow.flowmirror;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

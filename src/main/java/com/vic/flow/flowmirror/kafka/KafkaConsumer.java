@@ -1,9 +1,9 @@
-package com.vic.flow.isgflowmirror.kafka;
+package com.vic.flow.flowmirror.kafka;
 
 import com.alibaba.fastjson.JSONObject;
-import com.vic.flow.isgflowmirror.es.MirrorRequestBean;
-import com.vic.flow.isgflowmirror.utils.DateTime;
-import com.vic.flow.isgflowmirror.utils.IDUtil;
+import com.vic.flow.flowmirror.es.MirrorRequestBean;
+import com.vic.flow.flowmirror.utils.DateTime;
+import com.vic.flow.flowmirror.utils.IDUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.beans.factory.annotation.Autowired;
