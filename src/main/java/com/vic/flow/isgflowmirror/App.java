@@ -1,13 +1,13 @@
-package com.getui.flow.isgflowmirror;
+package com.vic.flow.isgflowmirror;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IsgFlowMirrorApplication {
+public class App {
 
     public static void main(String[] args) {
-        SpringApplication.run(IsgFlowMirrorApplication.class, args);
+        SpringApplication.run(App.class, args);
     }
 
 }

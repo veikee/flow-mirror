@@ -1,19 +1,7 @@
-package com.getui.flow.isgflowmirror.controller;
+package com.vic.flow.isgflowmirror.controller;
 
-import com.alibaba.fastjson.JSONObject;
-import com.getui.flow.isgflowmirror.es.MirrorRequestBean;
-import com.getui.flow.isgflowmirror.utils.DateTime;
-import com.getui.flow.isgflowmirror.utils.IDUtil;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
-import org.springframework.data.elasticsearch.core.query.IndexQuery;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import javax.servlet.http.HttpServletRequest;
-import java.io.BufferedReader;
-import java.util.*;
 
 /**
  * @version 创建时间：2020/8/13 10:28 下午

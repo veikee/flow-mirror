@@ -1,4 +1,4 @@
-package com.getui.flow.isgflowmirror.es;
+package com.vic.flow.isgflowmirror.es;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

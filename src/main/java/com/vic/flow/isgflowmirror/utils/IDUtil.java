@@ -1,4 +1,4 @@
-package com.getui.flow.isgflowmirror.utils;
+package com.vic.flow.isgflowmirror.utils;
 
 import java.util.UUID;
 

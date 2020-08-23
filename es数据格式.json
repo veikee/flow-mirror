@@ -44,7 +44,8 @@
                     "request_body": "{\t\"user_id\":\"10001\",    \"name\":\"TOM\"\t}",
                     "params": "{\"key\":[\"1\"]}",
                     "timestamp": 1597587266690,
-                    "create_time": 20200816221426
+                    "create_time": 20200816221426,
+                    "create_time_min": 202008162214
                 }
             }
         ]
